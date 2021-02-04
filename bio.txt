@@ -1,7 +1,8 @@
-Nombre: Antonio Jesús Díaz Ponce
-Edad: 26
+Antonio Jesús Díaz Ponce 26 años
 
 Trabajo como desarrollador en la empresa Indra
 Me gusta hacer deporte
+
+hoy es un día espectacular.
 
 Muchas gracias
