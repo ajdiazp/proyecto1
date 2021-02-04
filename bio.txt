@@ -1,5 +1,7 @@
-Nombre: Antonio Jesús
+Nombre: Antonio Jesús Díaz Ponce
 Edad: 26
 
 Trabajo como desarrollador en la empresa Indra
-Me gusta dibujar y aprender
+Me gusta hacer deporte
+
+Muchas gracias
